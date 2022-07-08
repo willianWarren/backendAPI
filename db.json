@@ -1,0 +1,7 @@
+{
+    "products": [
+      { "id": 1, "product": "biscoito", "description": "Cereale de cacau, aveia e mel", "categories": "mercearia", "brand": "bauducco", "countryOrigin": "Brasil", "price": 2.99, "promo": 1.59, "validity" : "2022-09-07", "temperature" : "ambient" },
+      { "id": 2, "product": "refrigerante", "description": "Coca-cola zero", "categories": "bebidas", "brand": "coca-cola", "countryOrigin": "Estados Unidos", "price": 7.99, "promo": 6.59, "validity" : "2023-02-01", "temperature": "refrigerated" },
+      { "id": 3, "product": "chocolate", "description": "Ao leite com mel", "categories": "mercearia", "brand": "toblerone", "countryOrigin": "Suiça", "price": 16.99, "promo": 14.59, "validity" : "2022-08-07", "temperature": "ambient" }
+    ]
+}
