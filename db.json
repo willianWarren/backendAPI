@@ -1,7 +1,87 @@
 {
-    "products": [
-      { "id": 1, "product": "biscoito", "description": "Cereale de cacau, aveia e mel", "categories": "mercearia", "brand": "bauducco", "countryOrigin": "Brasil", "price": 2.99, "promo": 1.59, "validity" : "2022-09-07", "temperature" : "ambient" },
-      { "id": 2, "product": "refrigerante", "description": "Coca-cola zero", "categories": "bebidas", "brand": "coca-cola", "countryOrigin": "Estados Unidos", "price": 7.99, "promo": 6.59, "validity" : "2023-02-01", "temperature": "refrigerated" },
-      { "id": 3, "product": "chocolate", "description": "Ao leite com mel", "categories": "mercearia", "brand": "toblerone", "countryOrigin": "Suiça", "price": 16.99, "promo": 14.59, "validity" : "2022-08-07", "temperature": "ambient" }
-    ]
+  "products": [
+    { "id": 1, "product": "biscoito", "description": "Cereale de cacau, aveia e mel", "categories": "mercearia", "brand": "bauducco", "countryOrigin": "Brasil", "price": 2.99, "promo": 1.59, "validity" : "2022-09-07", "temperature" : "ambient" },
+    { "id": 2, "product": "refrigerante", "description": "Coca-cola zero", "categories": "bebidas", "brand": "coca-cola", "countryOrigin": "Estados Unidos", "price": 7.99, "promo": 6.59, "validity" : "2023-02-01", "temperature": "refrigerated" },
+    { "id": 3, "product": "chocolate", "description": "Ao leite com mel", "categories": "mercearia", "brand": "toblerone", "countryOrigin": "Suiça", "price": 16.99, "promo": 14.59, "validity" : "2022-08-07", "temperature": "ambient" }
+  ],
+  "car": [
+      {
+          "id": "1",
+          "name": "Palio",
+          "brand": "Fiat",
+          "color": "red",
+          "year": "2010",
+          "doors": "2",
+          "CV": "70",
+          "Câmbio": "manual",
+          "alarme": "não",
+          "teto solar": "não",
+          "computador de bordo": "não"
+      },
+      {
+          "id": "2",
+          "name": "Gol g5",
+          "brand": "volkswagen",
+          "color": "black",
+          "year": "2012",
+          "doors": "4",
+          "CV": "75",
+          "Câmbio": "manual",
+          "alarme": "sim",
+          "teto solar": "não",
+          "computador de bordo": "não"
+      },
+      {
+          "id": "3",
+          "name": "Logan",
+          "brand": "Renault",
+          "color": "grey",
+          "year": "2014",
+          "doors": "4",
+          "CV": "80",
+          "Câmbio": "automático",
+          "alarme": "sim",
+          "teto solar": "não",
+          "computador de bordo": "não"
+      },
+      {
+          "id": "4",
+          "name": "Golf",
+          "brand": "volkswagen",
+          "color": "white",
+          "year": "2016",
+          "doors": "4",
+          "CV": "170",
+          "Câmbio": "automático",
+          "alarme": "sim",
+          "teto solar": "sim",
+          "computador de bordo": "sim"
+      },
+      {
+          "id": "5",
+          "name": "Jetta",
+          "brand": "volkswagen",
+          "color": "white",
+          "year": "2018",
+          "doors": "4",
+          "CV": "190",
+          "Câmbio": "automático",
+          "alarme": "sim",
+          "teto solar": "sim",
+          "computador de bordo": "sim"
+      },
+      {
+          "id": "6",
+          "name": "Mercedes c180",
+          "brand": "mercedes",
+          "color": "grey",
+          "year": "2022",
+          "doors": "4",
+          "CV": "130",
+          "Câmbio": "manual",
+          "alarme": "sim",
+          "teto solar": "sim",
+          "computador de bordo": "sim"
+      }
+  ]
 }
