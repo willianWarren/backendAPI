@@ -83,5 +83,20 @@
             "tetoSolar": "true",
             "computadorDeBordo": "true"
         }
-    ]
+    ],
+    "airplanes": [
+        {
+          "manufacturer": "Airbus",
+          "year": "2017",
+          "engine": "Rolls-Royce Trent XWB",
+          "range": "Internacional",
+          "prefix": "A7-ANA",
+          "model": "A350-1000",
+          "company": "Qatar",
+          "engineNumber": "2",
+          "airplaneType": "Comercial",
+          "country": "Qatar",
+          "id": 4
+        }
+     ]
 }
